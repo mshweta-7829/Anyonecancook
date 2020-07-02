@@ -1,0 +1,28 @@
+.home-img{
+    background-image: url(../images/image2.jpg);
+    height: 500px;
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    justify-content: start; 
+}
+.home-text{
+    color:azure;
+}
+.full-width{
+    width:100vw;
+    position:relative;
+    left:50%;
+    right:50%;
+    margin-left:-50vw;
+    margin-right:-50vw;
+}
+.header1{
+    text-align: center;
+    margin:10px;
+    color: rgba(218, 85, 32, 0.856);
+    font-family: 'Piedra', cursive;
+}
+p, a{
+    font-family: 'Quicksand', sans-serif;
+}
