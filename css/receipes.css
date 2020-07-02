@@ -23,6 +23,7 @@ body{
 .img-round{
     border-radius: 50%;
     width:70%;
+    margin:1rem;
 }
 .receipes-display{
     margin: 15px;
@@ -33,6 +34,7 @@ body{
     align-items: center;
     padding:15px;
     color: lightslategray;
+    margin:1rem;
 }
 a:-webkit-any-link{
     cursor: pointer; 
