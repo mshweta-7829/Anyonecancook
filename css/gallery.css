@@ -1,0 +1,37 @@
+.header-quote{
+    color: chocolate;
+    font-family: 'Fredericka the Great', cursive;
+    letter-spacing: 0.5em;
+}
+.col-img-outside{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.col-img-inside{
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.col-img-text{
+    font-family: monospace;
+    letter-spacing: 0.3px;
+    padding: 1%;
+    text-align: center;
+    font-size: 20px;
+    color: indianred;
+    font-style: oblique;
+    
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.jumbotron{
+    border-style: double;
+}
+blockquote, a{
+    font-family: 'Emilys Candy', cursive;
+}
