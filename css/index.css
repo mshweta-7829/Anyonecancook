@@ -1,5 +1,9 @@
 .home-img{
+<<<<<<< HEAD
     background-image: url(/images/image2.jpg);
+=======
+    background-image: url(images/image2.jpg);
+>>>>>>> ad39970ab10415f0f3d753513b7e2c05355b8724
     height: 500px;
     background-size:cover;
     background-position: center;
