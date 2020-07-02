@@ -1,5 +1,5 @@
 .home-img{
-    background-image: url(images/image2.jpg);
+    background-image: url(../images/image2.jpg);
     height: 500px;
     background-size:cover;
     background-position: center;
